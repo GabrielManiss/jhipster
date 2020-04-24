@@ -9,7 +9,7 @@ entity User {
     userId Long required
     login String required
     password String required
-} /*c faux parait il */
+}
 
 /**
  * The Restaurant entity.
